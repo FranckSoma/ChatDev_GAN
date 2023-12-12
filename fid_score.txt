@@ -1,0 +1,6 @@
+This file stores the Epoch, step, D_Loss, and G_loss of the training process.
+Epoch [1/10], Step [1/938], D_loss: 1.3842, G_loss: 0.6931
+Epoch [1/10], Step [101/938], D_loss: 0.0000, G_loss: 0.0000
+...
+Epoch [10/10], Step [839/938], D_loss: 0.0000, G_loss: 0.0000
+Epoch [10/10], Step [939/938], D_loss: 0.0000, G_loss: 0.0000
